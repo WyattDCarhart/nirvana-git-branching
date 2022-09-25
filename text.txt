@@ -1,2 +1,4 @@
 This is the first new file
 It is going in the first new branch
+
+Now I am editing the file in a new branch !
