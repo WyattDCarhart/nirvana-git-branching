@@ -1,2 +1,7 @@
 i am editing this file
+<<<<<<< HEAD
 edit
+=======
+
+hi I'm a different person editing this file and trying to cause a merge conflict :))
+>>>>>>> d6120364f0baec6c75728e5d26f3465888362d02
